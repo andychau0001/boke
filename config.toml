@@ -1,0 +1,7 @@
+baseURL = "https://andychau0001.github.io/boke/"
+languageCode = "zh-cn"
+title = "Andy博客"
+theme = "ananke"
+
+[params]
+  description = "个人技术博客"
